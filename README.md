@@ -5,7 +5,8 @@ Como sistema gestor de la base de datos se utiliza MYSQL, esta herramienta dio t
   <br>
  Para eso se hizo uso de la herramienta XAMPP para las pruebas del desarrollo de la aplicación web en nuestro ordenador.
   <br>
-La aplicación que se mostrará a continuación es una página web que tiene como objetivo mostrar información referente a ventas de artículos artesanales del estado de Campeche, como primera instancia nos mostrará un saludo de bienvenida con una descripción de lo que se encontrará, al igual que una pequeña información para familiarizarnos con el estado de Campeche, también encontraremos información general sobre los productos artesanales que resaltan en el estado.
+  <br>
+La aplicación es una página web que tiene como objetivo mostrar información referente a ventas de artículos artesanales del estado de Campeche, como primera instancia nos mostrará un saludo de bienvenida con una descripción de lo que se encontrará, al igual que una pequeña información para familiarizarnos con el estado de Campeche, también encontraremos información general sobre los productos artesanales que resaltan en el estado.
   <br>
 El visitante o el cliente que entra a la página podrá visualizar una lista de los productos que se encuentran disponibles, para que tenga conocimiento de cuáles son los productos que se comercializan, en otro lado se podrá visualizar una lista de contactos de los vendedores o administradores para saber a quién recurrir en el caso que quiera adquirir algún producto.
   <br>
@@ -13,6 +14,7 @@ La aplicación tendrá una pestaña para iniciar sesión de los vendedores y adm
   <br>
 El administrador podrá crear usuarios, ya sea con rol de administrador o vendedor, también podrá agregar productos a la venta y manipular a sus proveedores, el vendedor podrá crear sus ventas y registrar a sus clientes.
   <br>
+  <hr>
 La visión del proyecto es que se cree una plataforma propia del estado para comercializar los productos artesanales, Campeche es rico en cultura y tradición junto con ello los artesanos que crean productos que muy pocas personas tienen ese talento para hacerlos.
 Añadiendo más funcionalidades, en un futuro se puede llegar a que el mismo cliente tenga una sesión para que él mismo haga sus compras añadiendo a un tipo carrito de compras online.
   <br>
