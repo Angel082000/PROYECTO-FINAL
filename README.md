@@ -5,7 +5,7 @@ Como sistema gestor de la base de datos se utiliza MYSQL, esta herramienta dio t
   <br>
  Para eso se hizo uso de la herramienta XAMPP para las pruebas del desarrollo de la aplicación web en nuestro ordenador.
   <br>
-  <br>
+ <hr>
 La aplicación es una página web que tiene como objetivo mostrar información referente a ventas de artículos artesanales del estado de Campeche, como primera instancia nos mostrará un saludo de bienvenida con una descripción de lo que se encontrará, al igual que una pequeña información para familiarizarnos con el estado de Campeche, también encontraremos información general sobre los productos artesanales que resaltan en el estado.
   <br>
 El visitante o el cliente que entra a la página podrá visualizar una lista de los productos que se encuentran disponibles, para que tenga conocimiento de cuáles son los productos que se comercializan, en otro lado se podrá visualizar una lista de contactos de los vendedores o administradores para saber a quién recurrir en el caso que quiera adquirir algún producto.
