@@ -1,5 +1,5 @@
-<h1> PROYECTO-FINAL </h1>
-<h3>
+<h1> PROYECTO FINAL </h1>
+<h4>
   El proyecto está desarrollado en lenguaje php, se eligió como IDE la plataforma Netbeans. Este entorno nos proporcionó las herramientas para desarrollar la aplicación web.
 Como sistema gestor de la base de datos se utiliza MYSQL, esta herramienta dio todo lo necesario para almacenar los datos que se requieren guardar de acuerdo al diseño de la aplicación.
   <br>
@@ -18,4 +18,4 @@ Añadiendo más funcionalidades, en un futuro se puede llegar a que el mismo cli
   <br>
 A lo largo de la materia se aprendió sobre el desarrollo de páginas web, es algo que en los últimos años hemos utilizado con mayor frecuencia, el hecho de entrar a una página donde nos conectemos con nuestros compañeros de la clase y con nuestros maestros, nos hace pensar que hay algo atrás trabajando para lograr este objetivo. El uso de servidores, redes, paqueterías, códigos html, scripts, javascript, php, hojas de estilo css, etc, hacen posible conectarnos.
 En la materia vimos un vistazo de cómo se va estructurando las páginas web, lo básico para desarrollar plataformas, software o herramientas que, en un futuro, en nuestro entorno laboral lo pondremos en práctica. Son los primeros pasos que damos, con la práctica y constancia lograremos hacer grandes proyectos de manera profesional.
-</h3>
+</h4>
